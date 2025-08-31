@@ -121,6 +121,7 @@ These key points mentioned here will help me grow accountable and consistent tow
 
 <b><strong>Rohan Khatri</strong></b>
 -Contact - 8851723191
+
 -Email - rohankhatri475@gmail.com
 
 ## Acknowledgments
@@ -134,4 +135,5 @@ I love receiving feedback! I am always looking to improve my code and take up ne
 If you liked this project make sure to spread the word and share it with all your friends.
 
 **Happy coding!** ☺️🚀
+
 
